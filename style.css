@@ -8,7 +8,7 @@
 }
 body{
     height: 100vh;
-    background: url("/project/grandcoffee/images/Coffee1.jpg");
+    background: url("images/Coffee1.jpg");
     background-position:center;
     background-size:cover;
     background-repeat: no-repeat;
